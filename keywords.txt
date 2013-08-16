@@ -1,0 +1,4 @@
+SPIRam	KEYWORD1
+initialize	KEYWORD2
+read	KEYWORD2
+write	KEYWORD2
