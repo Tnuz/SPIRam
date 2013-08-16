@@ -1,7 +1,7 @@
 SPIRam
 ========
 
-Arduino library for read/write access to SPI SRAM memory chips.
+Arduino library for read/write access to [Microchip 32k256 SPI SRAM memory](http://ww1.microchip.com/downloads/en/DeviceDoc/22100F.pdf).
 See code files for initial documentation.
 
 ###Installation
